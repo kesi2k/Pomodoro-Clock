@@ -1,0 +1,45 @@
+* {
+	margin: 0;
+	padding: 0;
+	}
+body{background:#FFF056
+;}
+#big_wrapper {
+  text-align: center;
+}
+.container{
+  padding: 90px; }
+  p {
+    font-size: 25px;
+  }
+
+.headings span {
+}
+
+#break_length{
+}
+#left_side{
+  float:left;
+}
+
+#right_side{
+  float:right;
+}
+#session_length{
+  max-width: 100%;
+}
+
+span{
+  font-size:25px;
+}
+
+.clock{
+  font-size:50px; 
+}
+.btn-warning{
+  background-color:yellow; 
+}
+
+.btn-default{
+  background-color: #DFE2DB;
+}
