@@ -13,11 +13,25 @@ body{background:#FFF056
     font-size: 25px;
   }
 
-.headings span {
+
+#menu_header li{float:right;
+       padding: 15px;
+       list-style:none; 
+}
+#Main{ 
+       color:black;
+       padding-top:250px;
+}
+.blue-text{font-family: times;
+           color:blue;
+           font-size: 25px;
+           text-align: left
 }
 
-#break_length{
-}
+
+
+
+
 #left_side{
   float:left;
 }
